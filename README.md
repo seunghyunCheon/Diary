@@ -15,7 +15,6 @@
 - ✅ 테이블뷰에서 스와이프를 통한 삭제기능 구현
 - ✅ TextViewDelegate의 활용
 - ✅ NSFetchResultsController의 활용
-- ✅ 지역화 적용
 - ✅ CoreLocalization의 활용
 - ✅ CoreData Migration 적용
 
